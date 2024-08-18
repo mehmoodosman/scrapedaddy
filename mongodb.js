@@ -3,7 +3,7 @@ require('dotenv').config();
 const { MongoClient } = require("mongodb");
 
 //MongoDB connection string
-const uri = process.env.MONGODB_URI
+const uri = "mongodb+srv://umamashahzad2004:TMxcNQel7XNGsrGG@scrapped-info.wfu20.mongodb.net/?retryWrites=true&w=majority&appName=Scrapped-Info";
 
 const options = {
     useUnifiedTopology: true,
