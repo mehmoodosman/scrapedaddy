@@ -4,7 +4,7 @@
 
 ## 🚀 Live Demo
 
-Try out ScrapeDaddy here: [ScrapeDaddy Live Demo](https://scrape-daddy-git-level-3-ryan-farekhs-projects.vercel.app/)
+Try out ScrapeDaddy here: [ScrapeDaddy Live Demo](https://scrapedaddy.vercel.app/)
 
 ## 🛠 Key Features
 
